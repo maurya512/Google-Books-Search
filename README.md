@@ -19,7 +19,7 @@ This application was created with the help of
 
 And Deployed on [Heroku](https://signup.heroku.com/t/platform?c=70130000001xDpdAAE&gclid=Cj0KCQjwtsv7BRCmARIsANu-CQczHYwws8nE5mL4iYDpTwsSH94rFYWuNoUUuPgNUzo1jyB3JNpi9SIaAkc4EALw_wcB).
 
-# Instrunctions
+# Instructions
 In order to run this application run the following commands in the terminal of your choice. 
 ```
 npm install
